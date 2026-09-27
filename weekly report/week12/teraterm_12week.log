@@ -1,0 +1,1322 @@
+w25qxx: welcome to libdriver w25qxx.
+w25qxx  --example=read  --address=0x100100
+w25qxx: param is invalid.
+w25qxx: welcome to libdriver w25qxx.
+w25qxx  --example=read  --address=0x100100
+w25qxx: param is invalid.
+w25qxx: welcome to libdriver w25qxx.
+w25qxx  --example=read  --address=0x100100
+w25qxx: param is invalid.
+w25qxx: welcome to libdriver w25qxx.
+w25qxx  --example=read  --address=0x100100
+w25qxx: param is invalid.
+w25qxx: welcome to libdriver w25qxx.
+sendln 'w25qxx --stream --address=0x100000
+w25qxx: unknown command.
+sendln 'w25qxx --stream --address=0x100000
+w25qxx: unknown command.
+w25qxx --stream --address=0x100000
+W25QXX_STREAM_READY
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+w25qxx: welcome to libdriver w25qxx.
+w25qxx --stream --address=0x100000
+w25qxx: welcome to libdriver w25qxx.
+w25qxx: welcome to libdriver w25qxx.
+w25qxx --stream --address=0x100000
+w25qxx: param is invalid.
+w25qxx: welcome to libdriver w25qxx.
+w25qxx --stream --addr=0x100000
+W25QXX_STREAM_READY
+NOERROR_ZeroInput, current try : 1
+exit receiving 8 letter loop : 10c418c4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08830883
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21463a09
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 29670022
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 00830083
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08a41905
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 19472188
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 31ea424b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 3a0939e8
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 19040041
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 086210a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 088210a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 18a30842
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a31062
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a30862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 108310a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08420862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10832966
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 212510c4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 006310e5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08a30062
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10c40083
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 004210e5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 19062167
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21471905
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10c410a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 18e42966
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 29251083
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 088308a4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 29a829c9
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 00a400c5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 00e600a5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 090719ca
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 2a0b324d
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 2a2c118a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 19eb00e7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 09282a2b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 118863f2
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : d75f9557
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 426b638f
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : e77eefdf
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ef9ef7df
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ef9effff
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ce99a555
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ce9ac679
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ce9ad6fc
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : d71d8cd4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7c739516
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95369d77
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae1aa61a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae5bc73f
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae7ca61a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9db89db7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5f8b659
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : c6bacefc
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : df9fcf3e
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b65b9d98
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d368d16
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d369d98
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9d989d98
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5d9b65b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : be7cb65b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : c6bdd75f
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : c6deae1b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95789558
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95789d78
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5daae3b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae1ba5da
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95798d17
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84f68d17
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95589579
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85177cf6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cf78d58
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 959995ba
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a61bb69d
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : cf5fcf7f
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : c6fea5fa
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95989dd9
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae3aae3a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : c71eb69c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9dd98517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb57494
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb57cd6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95789599
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95798517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74b67495
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb68517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d998558
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74d66454
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 5bf35bf3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64346c75
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 53d25bf3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 5bf35c13
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64346c55
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 749674d6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74b67475
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74b68d38
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95998d38
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 749563f2
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c337495
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84f684f6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb57cd5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9598b65b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9db97cb5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 63f26c53
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85169578
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95578d36
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5f9ae1a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9d988d37
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95788d17
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74746c34
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 5bf35c14
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64146415
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c566c77
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64164b93
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 53f55c15
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 5c1553f5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 53f55c15
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 5c355415
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 18e51905
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10c410a4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 212531a8
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 29a71925
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 190508a4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 00420883
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 29883a4b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 29a908a4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 19252125
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a30862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 18c418e4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08821083
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a30842
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a30862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10830862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 108310a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08420862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08622125
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 18e510a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 088308a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08630062
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08a408c4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 190529a8
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 29882167
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 212618e5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a30862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a32966
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 318618c4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10c41905
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 29c821a8
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 008408c5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 09270907
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 19892a0b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 220b2a2c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 2a4d19cb
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 118a220c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21eb3ace
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 19ca2a0b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d37df7f
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84935b2e
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : cebbffff
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : efbfef9e
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : df1bf7be
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : efbebe38
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : e79dc659
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b5d7c67a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : e75e8cd4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 849394f5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95369d57
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5d9a5fa
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b67ccf5f
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : beddb67b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a619a5f8
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5f8ae39
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b679bebb
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : c6fdcf1e
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b65b8d36
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84d58516
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d168d16
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d368d16
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9558a5fa
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae1aa5fa
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b65bc6fe
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : c6feadfa
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d378d17
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95589578
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9d99a5da
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5fa9d99
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d3784d6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84d684f6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84f78517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb67495
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74b58517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85388d58
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d999dda
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae5cae7c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a63b9db9
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9598a5fa
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b65bb67c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae5ca63b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9dfa95b9
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d788d58
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d378537
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d789599
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95ba9599
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d588517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cf77cf7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95da95ba
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85787d17
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74b66c95
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 749574b6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7d178538
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85388538
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7d177d17
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85388d79
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d598517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cf78d79
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9dda9dda
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d5884f6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb57cb5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb57cd6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84d68d37
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9db9ae3b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae3b8d58
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb57cb5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d379578
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95989db8
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae3ab69c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a61a9598
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9ddaa5fa
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d587cd6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c556455
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64356c76
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cf98d7a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 851a6c97
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 5c366456
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64565c36
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 53f553f4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 53f55415
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 190518e5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a40883
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a418e5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 216631c8
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21671925
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 00630042
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21874aac
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 31ea0043
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 19052125
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10c308a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 18e410a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 086210a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10830862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10820862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10830862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 106210a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10821062
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 086218c3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a30883
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a30062
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 088308a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08831926
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 3a09426a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21671906
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08a40883
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08630021
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08832987
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 296610c4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10c41105
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21881967
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 00841147
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21a919a9
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 2a0b324c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21ea21eb
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 2a2c220c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 328e3aaf
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21eb3aae
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 2a2c1148
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 5370c6de
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b61a4acc
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : adb7f7ff
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : e79ef7df
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ef7ddf3c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ffffe75d
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : efdec659
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : cebbc65a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ce9bb5f9
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9d569d36
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9d569d98
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5b9a5fa
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b67ccf3f
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : c71ebedd
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b67bae5a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae39ae39
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b639b65a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : be9bbebc
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae3a8d36
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84d584f5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84d57cb4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84d584d5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d169d98
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9db99db9
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5fabe7c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : c6dea5da
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8cf684f6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d379557
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95589578
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5fa9598
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d1784d6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84d684d6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb57c95
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74956c74
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 747574b5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cf784f7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85178538
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95b99599
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d798d38
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d378d58
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95999db9
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d588d58
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d588d58
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85388517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85177cf7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cf78517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85588d79
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d798518
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74b76c75
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c9674b6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74f77cf7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7d187d38
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85598d79
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95ba95db
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9dfb95db
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d798d79
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d9a95ba
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9dfb8d79
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85188d58
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9ddba61b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9ddb9599
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95ba8d37
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb67cb6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84f68d37
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d589578
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5fb9599
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85178517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8d378d57
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95789db9
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a61ab6bd
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae3b9598
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a61bb69d
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5fb8538
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cf774b7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c566c96
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7d198d5a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cf96456
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64366457
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64776456
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 53f553b4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 53f45c35
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 18e50883
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08630863
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10e42987
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21461946
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10c40042
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10e53209
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 3a2a29a8
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 29872966
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 18e40882
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08820021
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 002118e4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08820862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10821062
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 106210a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a31082
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08420862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620882
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10c40042
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a41905
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10c42987
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 4a6b3a2a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10c40883
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 00420042
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08630063
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10c42987
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 192608c4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08c400a4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 11261947
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08c521a8
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 29c921a9
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21ea21eb
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 11691189
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 220c2a2d
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 4b523aaf
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 2a4e326e
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 220c198a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 42ef6c33
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5d94acc
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 8473f7ff
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : e79ef7ff
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : f7ffdf1c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : defbf7de
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : f7ffdf3d
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : efbecebb
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b5d8c69b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : c69ba577
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9516a5b8
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : adf9a5fa
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : ae5bbedd
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : c6fdbedd
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : beddbebc
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : be9bb65a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b639ae39
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b65bb65b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5fa9d98
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 955784f5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7c947cb4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84d57cb5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84f69577
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95789578
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9db9ae1b
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : b67c9d99
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84d684d5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85168d37
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95589578
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5faa5da
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9d999557
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 84f67cb5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7c957c95
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb57495
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74546c54
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 747574b6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74d674b6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7d177cd7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74b674b6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74b67495
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74957495
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cd774b6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c756454
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64346454
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c556c75
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c756c76
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c9674b7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74d774b6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c766435
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 5bf45c14
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64556c76
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c966c96
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c966c96
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7d188539
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85598539
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7d187d18
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85388559
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95ba8539
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cf77cf7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85598d7a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95798d59
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : a5fb8d59
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cd674b6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cd67cd6
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cb67495
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 851884f7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 7cf78517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85178517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 85178d57
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 9599a61a
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95998517
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95baa63c
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 95997cf7
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 74d76c96
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64556456
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 6c776c76
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 5c154b93
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 5c155c36
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 64566456
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 5bf553b4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 53d46435
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 18e40863
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 004210a3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08a30042
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 088218e4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10e408c3
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08830062
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 088310e5
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 298731e9
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 29872146
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08830042
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08830862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 004210c4
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08820882
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620882
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620882
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 108210a2
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 18c31082
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620841
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08620862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 10a30862
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 18e52967
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 21473a09
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 424b2167
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08630883
+W25QXX_STREAM_READYFORMORE
+exit receiving 8 letter loop : 08830883
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+NOERROR_ZeroInput, current try : 2
+NOERROR_ZeroInput, current try : 3
+NOERROR_ZeroInput, current try : 4
+NOERROR_ZeroInput, current try : 5
+NOERROR_ZeroInput, current try : 6
+NOERROR_ZeroInput, current try : 7
+exit from No Input For Too long, sending NULL(black pixel) data, sending in next READYFORMORE
+W25QXX_STREAM_READYFORMORE
+NOERROR_ZeroInput, current try : 1
+w25qxx: welcome to libdriver w25qxx.
+
+w25qxx: unknown command.
+w25qxx  --example=read  --addr=0x100100
+w25qxx: addr 1048832 is c6.
+
+w25qxx: unknown command.
+w25qxx  --example=read  --addr=0x100101
+w25qxx: addr 1048833 is de.
+w25qxx  --example=read  --addr=0x100102
+w25qxx: addr 1048834 is ae.
+w25qxx  --example=read  --addr=0x100103
+w25qxx: addr 1048835 is 1b.
