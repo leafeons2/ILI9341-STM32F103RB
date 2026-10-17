@@ -1,0 +1,12 @@
+../Core/Src/spi.c:30:6:MX_SPI1_Init	8	static
+../Core/Src/spi.c:62:6:HAL_SPI_MspInit	40	static
+../Core/Src/spi.c:96:6:HAL_SPI_MspDeInit	16	static
+../Core/Src/spi.c:127:9:SPI1_DeInit	8	static
+../Core/Src/spi.c:147:9:spi_write_cmd	24	static
+../Core/Src/spi.c:184:9:w25qxx_spi_write	24	static
+../Core/Src/spi.c:234:9:spi_write_address16	24	static
+../Core/Src/spi.c:283:9:spi_read_cmd	24	static
+../Core/Src/spi.c:320:9:spi_read	24	static
+../Core/Src/spi.c:369:9:spi_read_address16	24	static
+../Core/Src/spi.c:419:9:spi_transmit	40	static
+../Core/Src/spi.c:457:9:spi_write_read	32	static

@@ -1,0 +1,73 @@
+Core/Src/w25qxx_with_ILI9341.o: ../Core/Src/w25qxx_with_ILI9341.c \
+ ../Core/Inc/w25qxx_with_ILI9341.h \
+ ../Core/Src/W25Q64_UserCodfe_Src/take_this/driver_w25qxx_basic.h \
+ ../Core/Src/W25Q64_UserCodfe_Src/take_this/w25qxx_interface/driver_w25qxx_interface.h \
+ ../Core/Src/W25Q64_UserCodfe_Src/take_this/w25qxx_interface/driver_w25qxx.h \
+ ../Core/Src/W25Q64_UserCodfe_Src/take_this/driver_w25qxx_read_test.h \
+ ../Core/Src/W25Q64_UserCodfe_Src/take_this/driver_w25qxx_register_test.h \
+ ../Core/Src/ILI9341_UserCode_Src/ILI9341/ILI9341_Touchscreen.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h \
+ ../Core/Inc/stm32f1xx_hal_conf.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h \
+ ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h \
+ ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h \
+ ../Drivers/CMSIS/Include/core_cm3.h \
+ ../Drivers/CMSIS/Include/cmsis_version.h \
+ ../Drivers/CMSIS/Include/cmsis_compiler.h \
+ ../Drivers/CMSIS/Include/cmsis_gcc.h \
+ ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h \
+ ../Core/Inc/spi.h ../Core/Inc/main.h \
+ ../Core/Src/ILI9341_UserCode_Src/ILI9341/ILI9341_STM32_Driver.h \
+ ../Core/Src/ILI9341_UserCode_Src/ILI9341/ILI9341_GFX.h \
+ ../Core/Inc/usart.h ../Core/Inc/delay.h
+../Core/Inc/w25qxx_with_ILI9341.h:
+../Core/Src/W25Q64_UserCodfe_Src/take_this/driver_w25qxx_basic.h:
+../Core/Src/W25Q64_UserCodfe_Src/take_this/w25qxx_interface/driver_w25qxx_interface.h:
+../Core/Src/W25Q64_UserCodfe_Src/take_this/w25qxx_interface/driver_w25qxx.h:
+../Core/Src/W25Q64_UserCodfe_Src/take_this/driver_w25qxx_read_test.h:
+../Core/Src/W25Q64_UserCodfe_Src/take_this/driver_w25qxx_register_test.h:
+../Core/Src/ILI9341_UserCode_Src/ILI9341/ILI9341_Touchscreen.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h:
+../Core/Inc/stm32f1xx_hal_conf.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h:
+../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h:
+../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h:
+../Drivers/CMSIS/Include/core_cm3.h:
+../Drivers/CMSIS/Include/cmsis_version.h:
+../Drivers/CMSIS/Include/cmsis_compiler.h:
+../Drivers/CMSIS/Include/cmsis_gcc.h:
+../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_spi.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h:
+../Core/Inc/spi.h:
+../Core/Inc/main.h:
+../Core/Src/ILI9341_UserCode_Src/ILI9341/ILI9341_STM32_Driver.h:
+../Core/Src/ILI9341_UserCode_Src/ILI9341/ILI9341_GFX.h:
+../Core/Inc/usart.h:
+../Core/Inc/delay.h:

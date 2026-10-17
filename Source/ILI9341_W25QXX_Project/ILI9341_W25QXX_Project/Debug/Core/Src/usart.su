@@ -1,0 +1,13 @@
+../Core/Src/usart.c:45:6:MX_USART2_UART_Init	8	static
+../Core/Src/usart.c:81:6:HAL_UART_MspInit	40	static
+../Core/Src/usart.c:117:6:HAL_UART_MspDeInit	16	static
+../Core/Src/usart.c:152:9:uart2_deinit	8	static
+../Core/Src/usart.c:173:9:uart2_write	24	static
+../Core/Src/usart.c:229:10:uart_read	40	static
+../Core/Src/usart.c:290:10:uart2_flush	4	static
+../Core/Src/usart.c:304:10:uart2_print	272	static
+../Core/Src/usart.c:342:21:uart2_get_handle	4	static
+../Core/Src/usart.c:354:6:HAL_UART_TxCpltCallback	16	static
+../Core/Src/usart.c:362:6:uart2_set_tx_done	4	static
+../Core/Src/usart.c:369:6:HAL_UART_RxCpltCallback	16	static
+../Core/Src/usart.c:389:6:uart2_irq_handler	8	static

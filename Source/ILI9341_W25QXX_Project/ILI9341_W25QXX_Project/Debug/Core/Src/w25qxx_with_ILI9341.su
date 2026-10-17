@@ -1,0 +1,4 @@
+../Core/Src/w25qxx_with_ILI9341.c:34:9:w25qxx	736	static
+../Core/Src/w25qxx_with_ILI9341.c:1309:9:W25QXX_WITH_ILI9341_Draw_Image	2080	static
+../Core/Src/w25qxx_with_ILI9341.c:1386:9:hex_to_uint32	24	static
+../Core/Src/w25qxx_with_ILI9341.c:1411:10:w25qxx_FastRead	40	static

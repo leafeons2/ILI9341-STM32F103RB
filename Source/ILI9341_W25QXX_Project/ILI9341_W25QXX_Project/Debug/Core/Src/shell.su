@@ -1,0 +1,6 @@
+../Core/Src/shell.c:54:16:a_shell_pretreatment	32	static
+../Core/Src/shell.c:118:16:a_shell_find	24	static
+../Core/Src/shell.c:144:16:a_shell_run	32	static
+../Core/Src/shell.c:171:9:shell_register	16	static
+../Core/Src/shell.c:191:9:shell_init	8	static
+../Core/Src/shell.c:210:9:shell_parse	32	static

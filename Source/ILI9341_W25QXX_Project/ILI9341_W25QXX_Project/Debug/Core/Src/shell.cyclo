@@ -1,0 +1,6 @@
+../Core/Src/shell.c:54:16:a_shell_pretreatment	6
+../Core/Src/shell.c:118:16:a_shell_find	3
+../Core/Src/shell.c:144:16:a_shell_run	4
+../Core/Src/shell.c:171:9:shell_register	2
+../Core/Src/shell.c:191:9:shell_init	1
+../Core/Src/shell.c:210:9:shell_parse	4
