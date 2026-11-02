@@ -12,8 +12,8 @@ STM32F103RB, Nucleo-F103RB, W25Q64, ILI9341 <br />
 사용 MCU/보드 : STM32F103RB / Nucleo-F103RB <br /> <br />
 
 환경 : STM32MX 에서 생성된 HAL 함수들을 이용해 STM32IDE 에서 개발 <br />
-&nbsp;       : ILI9341 제작사에서 기본으로 제공해주는 인터페이스, 드라이버, 예제 코드  사용 <br />
-&nbsp;       : LibDriver 에서 제공하는 W25QXX의 인터페이스, 드라이버 사용
+&nbsp; &nbsp;  &nbsp;    : ILI9341 제작사에서 기본으로 제공해주는 인터페이스, 드라이버, 예제 코드  사용 <br />
+&nbsp; &nbsp;  &nbsp;   : LibDriver 에서 제공하는 W25QXX의 인터페이스, 드라이버 사용
     
 ### 결과물
 구동 영상 : https://youtu.be/cVpCpbx06ak
